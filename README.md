@@ -3,5 +3,5 @@ Analysis on Life Expectancy data based on the Uited Nation dataset available <a 
 
 
 ## Files:
-* un_life_exp.ipynb holds the Exploratory Analysis on the UN Life Expectancy data. It was wrote using R, version 4.0.5.
-* UNdata.csv is the dowloaded dataset used for the Exploratory Analysis.
+* <code>un_life_exp.ipynb<code> holds the Exploratory Analysis on the UN Life Expectancy data. It was wrote using R, version 4.0.5.
+* <code>UNdata.csv<code> is the dowloaded dataset used for the Exploratory Analysis.
